@@ -6,7 +6,6 @@
     <title>Document</title>
   </head>
   <body>
-    Version 3
-    <!-- new stuffs ... -->
+    Version 2
   </body>
 </html>
