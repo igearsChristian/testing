@@ -6,6 +6,6 @@
     <title>Document</title>
   </head>
   <body>
-    Version 1
+    Version 2
   </body>
 </html>
